@@ -1,0 +1,38 @@
+.img{
+    width: 200px;
+    vertical-align: top;
+    margin-right: 39px;
+}
+
+.date{
+    width: 56px;
+    height: 56px;
+    background-color: #3d58A6;
+    padding: 7px 10px;
+    font-size: 37px;
+    color: wheat;
+}
+.text-block{
+    display: inline-block;
+    width: 929px;
+    vertical-align: top;
+}
+.p1{
+    margin-bottom: 21px;
+}
+.section{
+    background-color: #e8e1e1;
+}
+.conteiner{
+    width: 1177;
+    margin: 0 auto;
+}
+.left-block{
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 75px;
+}
+.right-block{
+    display: inline-block;
+    vertical-align: top;
+}
