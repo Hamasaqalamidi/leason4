@@ -36,3 +36,14 @@
     display: inline-block;
     vertical-align: top;
 }
+.divider{
+    width: 1px;
+    height: 27px;
+    background-color: #363e97;
+    display: inline-block;
+    margin-left: 35px;
+    margin-right: 32px;
+}
+.image1{
+    width: 50px;
+}
